@@ -1,12 +1,13 @@
 {
   "name": "memory-checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema para checagem / visualização de memoria do sistema operacional",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs", "javascript", "memory management", "os", "operating system"],
+  "author": "github.com/joaov1ct0r",
   "license": "ISC"
 }
