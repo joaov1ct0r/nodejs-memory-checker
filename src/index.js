@@ -1,1 +1,7 @@
 import os from 'os';
+
+setInterval(() => {
+    let { freemem, totalmem } = os;
+
+    let totalMemory = parseInt(totalmem() / 1024 / 1024);
+}, 1000);
