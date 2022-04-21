@@ -32,3 +32,5 @@
 <p>APOS ISSO OS DADOS SOBRE A MEMORIA SERÃO APRESENTADOS NO TERMINAL.</p>
 
 <h2>Picture</h2>
+
+![memorychecker](https://user-images.githubusercontent.com/79015823/164543915-db783f9d-570d-4d95-8374-91fd3551d016.jpg)
